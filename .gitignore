@@ -1,0 +1,12 @@
+# Complied Binaries
+*.o
+*.out
+a.out
+
+# GDB files
+.gdb_history
+
+# Editor files
+.neovim/
+*.swp
+*.swo
