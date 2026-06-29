@@ -6,4 +6,4 @@ My C learning journey - Part of the Embedded Systems Software Engineering Journe
 Each week has 'day_01/' to 'day_06/' folders.
 
 ## Goal
-Land an embedded systems software engineering role (9-12 LPA) by MAY 2027. 
+Land an embedded systems software engineering role.
